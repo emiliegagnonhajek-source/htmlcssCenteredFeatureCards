@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Day 2 – Feature Cards</title>
+  <link rel="stylesheet" href="cssCenteredFeatureCards">
+</head>
+<body>
+
+  <main>
+    <section class="features">
+        
+      <h2>Our Features</h2>
+
+      <div class="cards">
+        <article class="card">
+          <h3>Fast Performance</h3>
+          <p>Our app loads quickly on all devices.</p>
+        </article>
+
+        <article class="card">
+          <h3>Secure Data</h3>
+          <p>Your information is protected.</p>
+        </article>
+
+        <article class="card">
+          <h3>Easy to Use</h3>
+          <p>A clean interface anyone can learn.</p>
+        </article>
+      </div>
+
+    </section>
+  </main>
+
+</body>
+</html>
